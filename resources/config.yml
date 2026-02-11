@@ -1,0 +1,38 @@
+# ________  _______  _________  _________  _______   ________       ___  ________  ___  ________      
+#|\   __  \|\  ___ \|\___   ___\\___   ___\\  ___ \ |\   __  \     |\  \|\   __  \|\  \|\   ___  \    
+#\ \  \|\ /\ \   __/\|___ \  \_\|___ \  \_\ \   __/|\ \  \|\  \    \ \  \ \  \|\  \ \  \ \  \\ \  \   
+# \ \   __  \ \  \_|/__  \ \  \     \ \  \ \ \  \_|/_\ \   _  _\ __ \ \  \ \  \\\  \ \  \ \  \\ \  \  
+#  \ \  \|\  \ \  \_|\ \  \ \  \     \ \  \ \ \  \_|\ \ \  \\  \|\  \\_\  \ \  \\\  \ \  \ \  \\ \  \ 
+#   \ \_______\ \_______\  \ \__\     \ \__\ \ \_______\ \__\\ _\ \________\ \_______\ \__\ \__\\ \__\
+#    \|_______|\|_______|   \|__|      \|__|  \|_______|\|__|\|__\|________|\|_______|\|__|\|__| \|__|
+
+# Developed by @zSandeep 
+# Contributers @iiHqcks
+# Youtube @notsandeepsharma
+
+# BetterJoin Configuration
+# message-mode: static | dynamic
+message-mode: dynamic
+
+static:
+  join-color: "§a"
+  leave-color: "§c"
+
+dynamic:
+  # Will try to detect rank color from RankSystem
+  default-color: "§f"
+
+format:
+  join: "§7[§r{symbol}§7] {player}"
+  leave: "§7[§r{symbol}§7] {player}"
+
+symbols:
+  join: "+"
+  leave: "-"
+
+sound:
+  enabled: true
+  sound-name: "random.orb"
+  volume: 1.0
+  pitch: 1.0
+

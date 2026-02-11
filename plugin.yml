@@ -1,0 +1,7 @@
+name: BetterJoin
+main: BetterJoin\Main
+version: 1.0.3
+api: 5.0.0
+author: zSandeep
+description: Better Join Messages for your Pm5 Server
+softdepend: RankSystem
