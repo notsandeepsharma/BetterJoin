@@ -31,7 +31,8 @@ Simple and clean.
 - No rank plugin required
 
 **Example:**
-<img width="336" height="105" alt="image" src="https://github.com/user-attachments/assets/d8d815d5-4e1a-4784-8c58-6a8a5c4704d0" />
+<img width="336" height="105" alt="image" src="https://github.com/user-attachments/assets/cba45c8e-a92f-486f-b5ef-08f6aea4ba32" />
+
 
 
 ### 🔥 Dynamic Mode (Rank-Based)
@@ -46,7 +47,8 @@ BetterJoin reads the player's highest rank and applies:
 - Brackets always stay gray (§7)
 
 **Example:**
-<img width="331" height="115" alt="image" src="https://github.com/user-attachments/assets/8789b7c9-2900-40ad-abeb-71058a765dd7" />
+<img width="331" height="115" alt="image" src="https://github.com/user-attachments/assets/f9d980be-9b2c-4422-bd0f-e945f122be51" />
+
 
 
 ## 🔌 RankSystem Integration
